@@ -31,3 +31,41 @@ You can install the required dependencies using `pip`:
 
 ```bash
 pip install requests termcolor
+```
+## Usage
+Clone the Repository:
+```bash
+Copy code
+git clone https://github.com/yourusername/AIO-Scraper.git
+cd AIO-Scraper
+```
+# Run the Script:
+
+You can run the script manually or automatically.
+
+Automatic Scraping: The script will run at user-defined intervals to fetch proxies.
+
+Manual Scraping: Run the script to scrape proxies only once.
+
+# To start the script, simply run:
+
+```bash
+Copy code
+python aio_scraper.py
+```
+# Choose the Mode:
+
+Manual Mode: Scrape proxies immediately.
+Auto Mode: Set the interval for periodic scraping (e.g., every 5, 10, 20, or 60 minutes).
+Configuration: The script allows you to modify the proxy URLs or adjust the scraping intervals directly within the code.
+
+# Example Output
+When you run the script, you will see messages indicating the status of the proxy download process:
+
+```bash
+Copy code
+Downloaded proxies from https://raw.githubusercontent.com/elliottophellia/yakumo/master/results/http/global/http_checked.txt
+Saved 150 unique proxies to http.txt
+```
+# Contributing
+If you'd like to contribute to the project, feel free to fork the repository, make changes, and submit a pull request.
