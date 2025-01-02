@@ -35,7 +35,6 @@ pip install requests termcolor
 ## Usage
 Clone the Repository:
 ```bash
-Copy code
 git clone https://github.com/yourusername/AIO-Scraper.git
 cd AIO-Scraper
 ```
@@ -50,7 +49,6 @@ Manual Scraping: Run the script to scrape proxies only once.
 # To start the script, simply run:
 
 ```bash
-Copy code
 python aio_scraper.py
 ```
 # Choose the Mode:
@@ -63,7 +61,6 @@ Configuration: The script allows you to modify the proxy URLs or adjust the scra
 When you run the script, you will see messages indicating the status of the proxy download process:
 
 ```bash
-Copy code
 Downloaded proxies from https://raw.githubusercontent.com/elliottophellia/yakumo/master/results/http/global/http_checked.txt
 Saved 150 unique proxies to http.txt
 ```
