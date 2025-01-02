@@ -1,6 +1,6 @@
 # AIO-Scraper
 
-**AIO-Scraper** is a Python-based proxy scraper and testing tool that aggregates high-quality proxies from multiple sources. This tool allows you to download, test, and save proxies from various lists, including HTTP, HTTPS, SOCKS4, and SOCKS5 proxies. It ensures that duplicate proxies are removed, saving only unique proxies to local files for later use.
+**AIO-Scraper** is a Python-based proxy scraper and testing tool that aggregates high-quality proxies from multiple sources. This tool allows you to scrape, test, and save proxies from various lists, including HTTP, HTTPS, SOCKS4, and SOCKS5 proxies. It ensures that duplicate proxies are removed, saving only unique proxies to local files for later use.
 
 In addition to scraping proxies, AIO-Scraper includes a proxy testing feature that verifies the functionality of proxies from text files, allowing you to check if the proxies are working across different protocols.
 
