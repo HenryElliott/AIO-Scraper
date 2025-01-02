@@ -54,7 +54,9 @@ python aio_scraper.py
 # Choose the Mode:
 
 Manual Mode: Scrape proxies immediately.
+
 Auto Mode: Set the interval for periodic scraping (e.g., every 5, 10, 20, or 60 minutes).
+
 Configuration: The script allows you to modify the proxy URLs or adjust the scraping intervals directly within the code.
 
 # Example Output
