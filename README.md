@@ -1,6 +1,4 @@
 # AIO-Scraper 
- (All-in-One High Quality Proxy Scraper)
-
 **AIO-Scraper** is a Python-based proxy scraper that aggregates high-quality proxies from multiple sources. This tool allows you to download and save proxies from a variety of proxy lists, including HTTP, HTTPS, SOCKS4, and SOCKS5 proxies. It ensures that duplicate proxies are removed, saving only unique proxies to local files for later use. 
 
 With an easy-to-use interface, AIO-Scraper offers both automatic and manual scraping modes, giving you flexibility in how you wish to use the tool. The scraper allows you to specify the interval for automatic scraping, ensuring regular updates to your proxy lists.
