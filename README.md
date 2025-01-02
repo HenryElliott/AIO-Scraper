@@ -29,7 +29,7 @@ Additionally, you can test proxies from the saved `.txt` files to ensure they ar
 
 ## Requirements
 
-- Python 3.x
+- `Python 3.x`
 - `requests`: For making HTTP requests to fetch proxy lists and test proxies.
 - `termcolor`: For colorful terminal output.
 
