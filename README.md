@@ -8,12 +8,12 @@ With an easy-to-use interface, AIO-Scraper offers both automatic and manual scra
 
 ## Features
 
-- **Proxy Collection**: Download proxies from multiple trusted sources, categorized by protocol type (HTTP, HTTPS, SOCKS4, SOCKS5).
+- **Proxy Collection**: Scrape proxies from multiple trusted sources, categorized by protocol type (HTTP, HTTPS, SOCKS4, SOCKS5).
 - **Automatic Scraping**: Schedule proxy scraping at user-defined intervals (e.g., 5, 10, 20, 60 minutes).
 - **Manual Scraping**: Option to run the scraper manually whenever needed.
 - **Unique Proxies**: Automatically removes duplicate proxies to ensure only unique ones are saved.
 - **Proxy Testing**: Test proxies (HTTP, HTTPS, SOCKS4, SOCKS5) to check if they are working with a real URL request.
-- **Multiple Proxy Types**: Supports downloading and testing HTTP, HTTPS, SOCKS4, and SOCKS5 proxies.
+- **Multiple Proxy Types**: Supports saving and testing HTTP, HTTPS, SOCKS4, and SOCKS5 proxies.
 - **User Interface**: Simple and interactive interface that guides the user through the process.
 - **Easy-to-Use**: You can choose between manual and automatic scraping modes based on your preferences.
 
